@@ -1,4 +1,4 @@
-Configurando o TypeScript:
+Configurando o TypeScript no VSCode:
 
 1) npm init
 2) npm install --save-dev typescript
